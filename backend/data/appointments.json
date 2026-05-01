@@ -1,0 +1,23 @@
+[ {
+  "appointmentDate" : "2026-04-26T03:30:00",
+  "assignedTechnicianId" : "user-1777094906602",
+  "createdAt" : "2026-04-25T05:30:12.136",
+  "customerName" : "Nimal Perera",
+  "id" : "appointment-1777095012136",
+  "notes" : "",
+  "serviceType" : "Full Service + Oil Change UPDATED",
+  "status" : "scheduled",
+  "vehicleId" : "vehicle-1777094955167",
+  "vehicleName" : "2026 Toyota Corolla (CAA-1234)"
+}, {
+  "appointmentDate" : "2026-04-26T07:30:00",
+  "assignedTechnicianId" : "user-1777094906602",
+  "createdAt" : "2026-04-25T05:30:29.68",
+  "customerName" : "Kavindi Perera",
+  "id" : "appointment-1777095029680",
+  "notes" : "",
+  "serviceType" : "Brake Inspection",
+  "status" : "scheduled",
+  "vehicleId" : "vehicle-1777094976941",
+  "vehicleName" : "2026 Honda Vezel (CBD-5678)"
+} ]

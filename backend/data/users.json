@@ -1,0 +1,41 @@
+[ {
+  "createdAt" : "2026-04-25T05:27:44.379",
+  "email" : "nimal@gmail.com",
+  "id" : "user-1777094864379",
+  "name" : "Nimal Perera",
+  "phone" : "0711111111",
+  "responsibilities" : "General user",
+  "role" : "customer"
+}, {
+  "createdAt" : "2026-04-25T05:27:56.825",
+  "email" : "kavindi@gmail.com",
+  "id" : "user-1777094876825",
+  "name" : "Kavindi Perera",
+  "phone" : "0712222222",
+  "responsibilities" : "General user",
+  "role" : "customer"
+}, {
+  "createdAt" : "2026-04-25T05:28:26.602",
+  "email" : "saman@autoserve.com",
+  "id" : "user-1777094906602",
+  "name" : "Saman Peris",
+  "phone" : "0713333333",
+  "responsibilities" : "General user",
+  "role" : "technician"
+}, {
+  "createdAt" : "2026-04-25T05:28:43.645",
+  "email" : "ruwan@autoserve.com",
+  "id" : "user-1777094923644",
+  "name" : "Ruwan Jayasekara",
+  "phone" : "0714444444",
+  "responsibilities" : "General user",
+  "role" : "manager"
+}, {
+  "createdAt" : "2026-04-25T05:55:58.21",
+  "email" : "h@gmail.com",
+  "id" : "user-1777096558210",
+  "name" : "Hello ",
+  "phone" : "21212121",
+  "responsibilities" : "Owns vehicles and books appointments",
+  "role" : "customer"
+} ]

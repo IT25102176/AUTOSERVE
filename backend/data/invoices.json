@@ -1,0 +1,15 @@
+[ {
+  "amount" : 50000.0,
+  "createdAt" : "2026-04-25T05:32:40.301",
+  "customerName" : "Nimal Perera",
+  "description" : "done and dusted",
+  "dueDate" : "2026-05-25T05:32:30.278",
+  "id" : "invoice-1777095160301",
+  "issueDate" : "2026-04-25T05:32:30.278",
+  "paidDate" : null,
+  "serviceId" : "service-1777095085090",
+  "status" : "pending",
+  "tax" : 20.0,
+  "total" : 50020.0,
+  "vehicleName" : "2026 Toyota Corolla (CAA-1234)"
+} ]
