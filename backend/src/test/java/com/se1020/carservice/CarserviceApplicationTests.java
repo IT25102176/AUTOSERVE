@@ -5,8 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class CarserviceApplicationTests {
-
-	@Test
+    @Test
 	void contextLoads() {
 	}
 
