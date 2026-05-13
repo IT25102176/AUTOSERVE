@@ -3,6 +3,8 @@ package com.se1020.carservice.model;
 import java.time.LocalDateTime;
 
 public class ServiceRecord {
+
+    //attributes
     private String id;
     private String vehicleId;
     private String vehicleName;
@@ -14,6 +16,7 @@ public class ServiceRecord {
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 
+    // constructor
     public ServiceRecord() {
     }
 
