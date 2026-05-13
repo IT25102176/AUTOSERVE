@@ -141,7 +141,7 @@ public class Vehicle {
     public void setCreatedAt(LocalDateTime createdAt) {
         this.createdAt = createdAt;
     }
-
+    
     public String getMaintenanceProfile() {
         return "General";
     }
