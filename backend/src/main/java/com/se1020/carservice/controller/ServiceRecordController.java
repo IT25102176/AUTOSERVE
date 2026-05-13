@@ -9,6 +9,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/services")
 public class ServiceRecordController {
+
     private final ServiceRecordService serviceRecordService;
 
     public ServiceRecordController(ServiceRecordService serviceRecordService) {
@@ -39,4 +40,5 @@ public class ServiceRecordController {
     public void delete(@PathVariable String id) {
         serviceRecordService.delete(id);
     }
+    
 }
