@@ -105,7 +105,7 @@ public class UserService {
             case "technician" -> new Technician();
             case "admin" -> new Admin();
             default -> new Manager();
-        };
+        }; 
 
         roleSpecificUser.setId(user.getId());
         roleSpecificUser.setName(user.getName());
