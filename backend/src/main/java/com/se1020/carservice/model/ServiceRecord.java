@@ -3,6 +3,7 @@ package com.se1020.carservice.model;
 import java.time.LocalDateTime;
 
 public class ServiceRecord {
+    
     private String id;
     private String vehicleId;
     private String vehicleName;
